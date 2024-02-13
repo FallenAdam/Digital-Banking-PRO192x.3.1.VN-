@@ -1,27 +1,4 @@
-Skip to main content
-FUNiX Home Page
-FUNiX: PRO192x.3.1.VN Lập trình hướng đối tượng (bằng Java)Dashboard for:hientnFX21967
-More options
-Bảng điểm
-Sổ tay SV
-Home
- 
-Course, current location 
-Assessment Submission
- 
-Progress
-Course  Phần 4 - Lập trình Java nâng cao - Đa luồng - Đọc ghi dữ liệu  Assignment 4  Hướng dẫn hoàn thành dự án
- Previous
 
-other Tổng quan dự án 
-
-other Hướng dẫn hoàn thành dự án 
-
-other Hướng dẫn nộp bài 
-
-other Tiêu chí đánh giá Next 
-Hướng dẫn hoàn thành dự án
- Bookmark this page
 1. Chức năng và yêu cầu chi tiết
 
 1.1. Mô tả ứng dụng
@@ -300,13 +277,3 @@ Phương thức tranfers(Scanner scanner) yêu cầu nhập tài khoản dùng �
 m) CustomerIdNotValidException
 
 Định nghĩa exception khi kiểm tra customerId không hợp lệ.
-
- Previous
-Next 
-About FUNiX
-FUNiX LMS Home Page
-About Blog
-Powered by Open edX
- 
-Ask Mentors
- Báo lỗi
